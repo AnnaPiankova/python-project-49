@@ -23,16 +23,5 @@ def quiz():
     return question, str(answer)
 
 
-#def get_answer(get_expression):
-    num1 = randint(0, 50)
-    num2 = randint(0, 50)
-    answer = get_expression(num1, num2, sign)
-    return answer
-
-
-#def get_question(num1, num2, sign):
-    return f'{num1}{sign}{num2}'
-
-
 def run_game():
     core_game(quiz, start_game)

@@ -1,6 +1,7 @@
 from random import randint
 from brain_games.core import core_game
 
+
 start_game = 'Find the greatest common divisor of given numbers.'
 
 

@@ -1,6 +1,7 @@
 from random import randint
 from brain_games.core import core_game
 
+
 start_game = 'What number is missing in the progression?'
 
 

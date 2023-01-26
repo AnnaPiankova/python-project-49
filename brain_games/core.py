@@ -15,5 +15,5 @@ def core_game(quiz, start_game):
             counter += 1
             print('Correct!')
         else:
-            return print(f" {user_answer} is wrong answer ;(. Correct answer was {correct_answer}. \n Let's try again,{name}!")
-    return print(f'Congratulations,{name}!')
+            return print(f" {user_answer} is wrong answer ;(. Correct answer was {correct_answer}. \n Let's try again, {name}!")
+    return print(f'Congratulations, {name}!')
