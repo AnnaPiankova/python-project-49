@@ -9,8 +9,6 @@ def core_game(quiz, start_game):
     print(start_game)
     while counter < 3:
         generated_question, correct_answer = quiz()
-        #generated_question = get_question()
-        #correct_answer = get_answer(function)
         print(f'Question:{generated_question}')
         user_answer = input("Your answer: ")
         if correct_answer == user_answer:
