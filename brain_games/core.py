@@ -16,6 +16,6 @@ def core_game(quiz, start_game):
             print('Correct!')
         else:
             return print(
-                f'''{user_answer} is wrong answer ;(. Correct answer was {correct_answer}.
+                f'''"{user_answer}" is wrong answer ;(. Correct answer was "{correct_answer}".
 Let's try again, {name}!''')
     return print(f'Congratulations, {name}!')
