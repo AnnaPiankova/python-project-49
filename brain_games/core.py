@@ -9,7 +9,7 @@ def core_game(quiz, start_game):
     print(start_game)
     while counter < 3:
         generated_question, correct = quiz()
-        print(f'Question:{generated_question}')
+        print(f'Question: {generated_question}')
         get = input("Your answer: ")
         if correct == get:
             counter += 1
