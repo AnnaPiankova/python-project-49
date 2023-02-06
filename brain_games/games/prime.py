@@ -14,7 +14,7 @@ def is_prime(number):
 
 def quiz():
     question = randint(2, 100)
-    answer = "'yes'" if is_prime(question) else "'no'"
+    answer = "yes" if is_prime(question) else "no"
     return question, answer
 
 
