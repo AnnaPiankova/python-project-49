@@ -1,6 +1,7 @@
 from random import choice, randint
 from brain_games.core import core_game
 
+
 start_game = 'What is the result of the expression?'
 sign = choice(['+', '-', '*'])
 
@@ -19,7 +20,7 @@ def quiz():
     num1 = randint(0, 50)
     num2 = randint(0, 50)
     answer = get_expression(num1, num2, sign)
-    question = f'{num1}{sign}{num2}'
+    question = f'{num1} {sign} {num2}'
     return question, str(answer)
 
 
