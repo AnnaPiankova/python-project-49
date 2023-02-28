@@ -13,8 +13,8 @@ def get_gcd(num1, num2):
 
 
 def print_question():
-    num1 = randint(0, 50)
-    num2 = randint(0, 50)
+    num1 = randint(1, 50)
+    num2 = randint(1, 50)
     question = f'{num1} {num2}'
     answer = get_gcd(num1, num2)
     return question, str(answer)
