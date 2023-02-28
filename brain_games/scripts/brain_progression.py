@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 from brain_games.games import progression
+from brain_games.core import process_game
 
 
 def main():
-    progression.run_game()
+    process_game(progression)
 
 
 if __name__ == "__main__":
