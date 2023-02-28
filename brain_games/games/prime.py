@@ -1,8 +1,7 @@
 from random import randint
-from brain_games.core import core_game
 
 
-start_game = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+START_GAME = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def is_prime(number):
@@ -12,11 +11,7 @@ def is_prime(number):
     return True
 
 
-def quiz():
+def print_question():
     question = randint(2, 100)
     answer = "yes" if is_prime(question) else "no"
-    return question, answer
-
-
-def run_game():
-    core_game(quiz, start_game)
+    return question, str(answer)
