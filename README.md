@@ -31,7 +31,7 @@
 - Если на экране четное число, необходимо ввести *"yes"*, если нечетное *"no"*
 - Игра считается успешно пройденной, если дано 3 правильных ответа подряд
 - В случае неверного ответа, игра завершается.
-<a href="https://asciinema.org/a/AOnBgfrchLOqEa6wXARTAL4UX?autoplay=1"><img src="https://asciinema.org/a/AOnBgfrchLOqEa6wXARTAL4UX.png" width="836"/></a>
+[![asciicast](https://asciinema.org/a/lcbPR7u6tVBcoATAfWfkGiYdH.png)](https://asciinema.org/a/lcbPR7u6tVBcoATAfWfkGiYdH)
 
 [вернуться к списку игр](#list_of_games)
 
@@ -45,7 +45,7 @@
 - Необходимо ввести ответ выражения
 - Игра считается успешно пройденной, если дано 3 правильных ответа подряд
 - В случае неверного ответа, игра завершается.
-<a href="https://asciinema.org/a/yH8uEzTwJrLhbp6jWOBVmfM7l?autoplay=1"><img src="https://asciinema.org/a/yH8uEzTwJrLhbp6jWOBVmfM7l.png" width="836"/></a>
+[![asciicast](https://asciinema.org/a/L9WxYyHT4XGq7RYEkvimBhbNB.png)](https://asciinema.org/a/L9WxYyHT4XGq7RYEkvimBhbNB)
 
 [вернуться к списку игр](#list_of_games)
 
@@ -61,7 +61,7 @@
 - Необходимо вычислить и ввести наибольший общий делитель этих чисел
 - Игра считается успешно пройденной, если дано 3 правильных ответа подряд
 - В случае неверного ответа, игра завершается.
-<a href="https://asciinema.org/a/j1NEA6EF7n6M3W18J438i0rTq?autoplay=1"><img src="https://asciinema.org/a/j1NEA6EF7n6M3W18J438i0rTq.png" width="836"/></a>
+[![asciicast](https://asciinema.org/a/ZiK1BiSLLKRdE8EKKXlAuTbyD.png)](https://asciinema.org/a/ZiK1BiSLLKRdE8EKKXlAuTbyD)
 
 [вернуться к списку игр](#list_of_games)
 
@@ -77,7 +77,7 @@
 - Необходимо ввести пропущенное число
 - Игра считается успешно пройденной, если дано 3 правильных ответа подряд
 - В случае неверного ответа, игра завершается.
-<a href="https://asciinema.org/a/lwrNc5W4V1KhoEYN5q1LmeqBX?autoplay=1"><img src="https://asciinema.org/a/lwrNc5W4V1KhoEYN5q1LmeqBX.png" width="836"/></a>
+[![asciicast](https://asciinema.org/a/prw2i5rlFOUJ0YOhEyYEM52gS.png)](https://asciinema.org/a/prw2i5rlFOUJ0YOhEyYEM52gS)
 
 [вернуться к списку игр](#list_of_games)
 
@@ -93,6 +93,6 @@
 - Если на экране простое число, необходимо ввести *"yes"*, если составное *"no"*
 - Игра считается успешно пройденной, если дано 3 правильных ответа подряд
 - В случае неверного ответа, игра завершается.
-<a href="https://asciinema.org/a/6a7movhihprqbZoADfH3J3NoZ?autoplay=1"><img src="https://asciinema.org/a/6a7movhihprqbZoADfH3J3NoZ.png" width="836"/></a>
+[![asciicast](https://asciinema.org/a/8pkF7XIkwsnybYCgbBTtayqBg.png)](https://asciinema.org/a/8pkF7XIkwsnybYCgbBTtayqBg)
 
 [вернуться к списку игр](#list_of_games)
