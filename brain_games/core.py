@@ -15,7 +15,8 @@ def process_game(game):
             counter += 1
             print('Correct!')
         else:
-            return print(
+            print(
                 f'''"{get}" is wrong answer ;(. Correct answer was "{correct}".
 Let's try again, {name}!''')
-    return print(f'Congratulations, {name}!')
+            return
+    print(f'Congratulations, {name}!')
