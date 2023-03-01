@@ -1,10 +1,17 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "A collection of five small games"
 authors = ["Anna Piankova <anny.pyankova@gmail.com>"]
 readme = "README.md"
 packages = [{include = "brain_games"}]
+classifiers = [
+Development Status :: 3 - Alpha
+Programming Language :: Python :: 3.10
+Topic :: Games/Entertainment
+]
+
+repository = https://github.com/AnnaPiankova/python-project-49
 
 [tool.poetry.dependencies]
 python = "^3.10"
