@@ -1,7 +1,7 @@
 from random import randint
 
 
-START_GAME = 'Answer "yes" if the number is even, otherwise answer "no".'
+TASK = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def is_even(number):
@@ -11,4 +11,4 @@ def is_even(number):
 def print_question():
     question = randint(0, 100)
     answer = "yes" if is_even(question) else "no"
-    return question, str(answer)
+    return str(question), str(answer)
