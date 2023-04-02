@@ -8,7 +8,7 @@
 
 Установка пакета мини-игр:
 
-`pip install -i https://test.pypi.org/simple/ AnnaPiankova-brain-games --extra-index-url https://pypi.org/simple/`
+`python3 -m pip install --user git+https://github.com/AnnaPiankova/python-project-49/.git`
 
 [Игра: "Проверка на четность"](#brain-even)
 
