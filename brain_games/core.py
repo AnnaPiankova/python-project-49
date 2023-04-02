@@ -18,7 +18,6 @@ def process_game(game):
             print(
                 f'"{recive}" is wrong answer ;(.'
                 f'Correct answer was "{correct}".\n'
-                f"Let's try again, {name}!"
-                 )
+                f"Let's try again, {name}!")
             return
     print(f'Congratulations, {name}!')
