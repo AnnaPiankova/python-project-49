@@ -8,16 +8,16 @@ def process_game(game):
     print(game.TASK)
     counter = 0
     while counter < 3:
-        generated_question, correct = game.print_question()
+        generated_question, correct_answer = game.generate()
         print(f'Question: {generated_question}')
-        recive = input("Your answer: ")
-        if correct == recive:
+        get_answer = prompt.string("Your answer: ")
+        if correct_answer == get_answer:
             counter += 1
             print('Correct!')
         else:
             print(
-                f'"{recive}" is wrong answer ;(.'
-                f'Correct answer was "{correct}".\n'
+                f'"{get_answer}" is wrong answer ;(.'
+                f'Correct answer was "{correct_answer}".\n'
                 f"Let's try again, {name}!")
             return
     print(f'Congratulations, {name}!')
